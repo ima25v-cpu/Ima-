@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ima | Portfolio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:linear-gradient(135deg,#fdf2ff,#f7f0ff,#fff5f8);
+    color:#333;
+    overflow-x:hidden;
+}
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
+
+/* CSS lainnya tetap sama */
+
+</style>
+</head>
+<body>
+
+<div class="decor1"></div>
+<div class="decor2"></div>
+
+<header>
+    <div class="hero">
+        <img src="https://via.placeholder.com/180" alt="Profile">
+
+        <h1>Ima</h1>
+        <h3>Mahasiswa | Future Professional</h3>
+
+        <p>
+            Mahasiswa yang memiliki semangat tinggi dalam pengembangan diri,
+            kepemimpinan, serta inovasi digital. Berkomitmen untuk terus
+            belajar dan menciptakan solusi kreatif yang berdampak positif bagi
+            masyarakat dan dunia profesional.
+        </p>
+
+        <a href="#about" class="btn">Explore More</a>
+    </div>
+</header>
+
+<section id="about">
+<div class="container">
+
+<div class="title">
+<h2>Tentang Saya</h2>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<h3>Profil</h3>
+<p>
+Nama : Ima<br>
+Jenis Kelamin : Perempuan<br>
+Pekerjaan : Mahasiswa<br>
+Domisili : Makassar, Indonesia
+</p>
+</div>
+
+<div class="card">
+<h3>Bio</h3>
+<p>
+Ima adalah mahasiswa yang aktif dalam berbagai kegiatan akademik
+dan organisasi. Memiliki ketertarikan pada bidang teknologi,
+komunikasi digital, dan pengembangan sumber daya manusia.
+Dikenal sebagai pribadi kreatif, disiplin, dan mudah beradaptasi.
+</p>
+</div>
+
+<!-- Bagian kode lainnya tetap sama -->
+
+<section>
+<div class="container">
+
+<div class="title">
+<h2>Kontak</h2>
+</div>
+
+<div class="contact">
+<div class="contact-box">
+<h3>Let's Connect ✨</h3>
+
+<p>Email : ima@email.com</p>
+<p>Instagram : @ima</p>
+<p>LinkedIn : Ima</p>
+
+</div>
+</div>
+
+</div>
+</section>
+
+<footer>
+© 2026 Ima • Designed with 💜
+</footer>
+
+</body>
+</html>
